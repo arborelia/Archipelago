@@ -220,7 +220,8 @@ class RomPatcher:
             stdPatches += RomPatcher.IPSPatches['Standard'][:]
             if not self.settings["layout"]:
                 # when disabling anti softlock protection also disable doors indicators
-                stdPatches.remove('door_indicators_plms.ips')
+                if "door_indicators_plms.ips" in stdPatches:
+                    stdPatches.remove('door_indicators_plms.ips')
             if self.race is not None:
                 stdPatches.append('race_mode_post.ips')
             if self.settings["suitsMode"] != "Balanced":

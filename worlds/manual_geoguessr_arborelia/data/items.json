@@ -1,0 +1,168 @@
+[
+    {
+        "name": "Progressive Pan/Zoom/Move",
+        "progression": true,
+        "count": 3
+    },
+    {
+        "name": "Progressive Compass/Car",
+        "progression": true,
+        "count": 2
+    },
+    {
+        "name": "Terrain Map View",
+        "progression": true
+    },
+    {
+        "name": "Satellite Map View",
+        "progression": true
+    },
+    {
+        "name": "OpenStreetMap View",
+        "useful": true
+    },
+    {
+        "name": "Time machine",
+        "useful": true
+    },
+    {
+        "name": "Map Score +1000",
+        "useful": true,
+        "count": 10
+    },
+    {
+        "name": "Map Score +5000",
+        "useful": true,
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "More Time",
+        "progression": true,
+        "count": 30
+    },
+    {
+        "name": "Count 24999 as perfect",
+        "useful": true,
+        "count": 2
+    },
+    {
+        "name": "20 Second Timer Trap",
+        "count": 3,
+        "trap": true
+    },
+    {
+        "name": "Mosaic Trap",
+        "count": 2,
+        "trap": true
+    },
+    {
+        "name": "Watercolor Map Trap",
+        "count": 3,
+        "trap": true
+    },
+    {
+        "name": "Death Metal Map Trap",
+        "count": 2,
+        "trap": true
+    },
+    {
+        "name": "Labelless Trap",
+        "count": 3,
+        "trap": true
+    },
+    {
+        "name": "Mega Plonk Trap",
+        "count": 1,
+        "trap": true
+    },
+    {
+        "name": "Space Plonk Trap",
+        "count": 3,
+        "trap": true
+    },
+    {
+        "name": "A Better Nordics Map",
+        "progression": true
+    },
+    {
+        "name": "A Community World",
+        "progression": true
+    },
+    {
+        "name": "A Drone World",
+        "progression": true
+    },
+    {
+        "name": "A Linguistic World",
+        "progression": true
+    },
+    {
+        "name": "An Arbitrary Africa",
+        "progression": true
+    },
+    {
+        "name": "An Arbitrary Southeast Asia",
+        "progression": true
+    },
+    {
+        "name": "Belgium",
+        "progression": true
+    },
+    {
+        "name": "Border Control",
+        "progression": true
+    },
+    {
+        "name": "City Skylines",
+        "progression": true
+    },
+    {
+        "name": "CityGuessr",
+        "progression": true
+    },
+    {
+        "name": "Ecuador",
+        "progression": true
+    },
+    {
+        "name": "European Diversity",
+        "progression": true
+    },
+    {
+        "name": "Germany",
+        "progression": true
+    },
+    {
+        "name": "I Like Trains",
+        "progression": true
+    },
+    {
+        "name": "Italy",
+        "progression": true
+    },
+    {
+        "name": "La Diversite Francaise",
+        "progression": true
+    },
+    {
+        "name": "Look at dem mountains tho",
+        "progression": true
+    },
+    {
+        "name": "Southwest and Central Asia",
+        "progression": true
+    },
+    {
+        "name": "Tokyo Metropolis",
+        "progression": true
+    },
+    {
+        "name": "UNESCO World Heritage Sites",
+        "progression": true
+    },
+    {
+        "name": "Uruguay",
+        "progression": true
+    }
+]
