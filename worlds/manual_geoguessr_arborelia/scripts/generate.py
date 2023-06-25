@@ -73,28 +73,34 @@ user_maps = [
     {
         "name": "An Amaizing World of Corn",
         "author": "Cinnamonique",
+        "streakable": True,
     },
     {
         "name": "An Arbitrary Asia",
         "author": "slashP",
         "difficulty": 4,
+        "streakable": True,
     },
     {
         "name": "An Arbitrary Africa",
         "author": "slashP",
+        "streakable": True,
     },
     {
         "name": "An Arbitrary Oceania",
         "author": "slashP",
         "difficulty": 4,
+        "streakable": True,
     },
     {
         "name": "An Arbitrary South America",
         "author": "slashP",
+        "streakable": True,
     },
     {
         "name": "An Arbitrary Europe",
         "author": "slashP",
+        "streakable": True,
     },
     {
         "name": "A Balanced Canada",
@@ -104,6 +110,7 @@ user_maps = [
         "name": "A Balanced Urban World",
         "author": "TunaJoe74",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "Aesthetic World",
@@ -114,19 +121,23 @@ user_maps = [
         "name": "A Linguistic World",
         "author": "nuujaku",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "All about the North",
         "author": "Frímann Stefánsson",
         "difficulty": 4,
+        "streakable": True,
     },
     {
         "name": "A Mural World",
         "author": "Hugo",
+        "streakable": True,
     },
     {
         "name": "An Extraordinary Cow",
         "author": "KingMoo92",
+        "streakable": True,
     },
     {
         "name": "An Extraordinary World",
@@ -137,41 +148,49 @@ user_maps = [
     {
         "name": "An Improved World",
         "author": "Wolftrekker",
+        "streakable": True,
     },
     {
         "name": "A Metaful World",
         "author": "Zem",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "A Thrilling World",
         "author": "Zem",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "Animals of the World",
         "author": "Rhiannonfuller",
+        "streakable": True,
     },
     {
         "name": "An Unexplored World",
         "difficulty": 5,
         "pinpointable": True,
+        "unofficial": True,
     },
     {
         "name": "A Pinpointable World",
         "difficulty": 1,
         "pinpointable": True,
+        "streakable": True,
     },
     {
         "name": "A Rural World",
         "author": "Topotic",
         "difficulty": 4,
+        "streakable": True,
     },
     {
         "name": "A Speedrun World",
         "author": "Scribbles",
         "difficulty": 1,
         "pinpointable": True,
+        "streakable": True,
     },
     {
         "name": "A Drone World",
@@ -183,11 +202,13 @@ user_maps = [
         "name": "Border Control",
         "author": "0321654",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "CityGuessr",
         "author": "BOKSA",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "Tokyo Metropolis",
@@ -196,29 +217,35 @@ user_maps = [
     {
         "name": "City Skylines",
         "author": "Radu C",
+        "streakable": True,
     },
     {
         "name": "Coastal Cities 100K+",
         "author": "Scribbles",
+        "streakable": True,
     },
     {
         "name": "Dads of the World",
         "author": "Arsemann",
         "unofficial": True,
+        "streakable": True,
     },
     {
         "name": "DistanceGuessr",
         "author": "Scribbles",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "European Diversity",
         "author": "Biquette",
+        "streakable": True,
     },
     {
         "name": "Fun with Flags",
         "author": "Cinnamonique",
         "unofficial": True,
+        "streakable": True,
     },
     {
         "name": "GeoDetective Africa",
@@ -226,6 +253,7 @@ user_maps = [
         "difficulty": 2,
         "unofficial": True,
         "pinpointable": True,
+        "streakable": True,
     },
     {
         "name": "GeoDetective",
@@ -233,6 +261,7 @@ user_maps = [
         "difficulty": 1,
         "unofficial": True,
         "pinpointable": True,
+        "streakable": True,
     },
     {
         "name": "GeoDetective World",
@@ -240,6 +269,7 @@ user_maps = [
         "difficulty": 1,
         "unofficial": True,
         "pinpointable": True,
+        "streakable": True,
     },
     {
         "name": "Detective Japan",
@@ -251,16 +281,19 @@ user_maps = [
         "author": "J I G E N",
         "difficulty": 4,
         "unofficial": True,
+        "streakable": True,
     },
     {
         "name": "I Like Trains",
         "author": "baszmania",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "Intersectionguessr North America",
         "author": "PastequeHachee",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "Lakes of the World",
@@ -275,6 +308,7 @@ user_maps = [
     {
         "name": "Latin America (Balanced Distribution)",
         "author": "Radu C",
+        "streakable": True,
     },
     {
         "name": "Living the Island Life",
@@ -284,11 +318,13 @@ user_maps = [
     {
         "name": "Look at dem mountains tho",
         "author": "傻乎乎",
+        "streakable": True,
     },
     {
         "name": "McDonald's Worldwide",
         "author": "aurahack",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "New York City",
@@ -297,30 +333,36 @@ user_maps = [
     {
         "name": "A Better Nordics Map",
         "author": "ChristofferDH",
+        "streakable": True,
     },
     {
         "name": "Regionguessing",
         "author": "Steve",
         "difficulty": 4,
+        "streakable": True,
     },
     {
         "name": "An Arbitrary Southeast Asia",
         "author": "John Harvey Kellogg",
         "difficulty": 4,
+        "streakable": True,
     },
     {
         "name": "Southwest and Central Asia",
         "author": "Tanderson",
         "difficulty": 5,
+        "streakable": True,
     },
     {
         "name": "UNESCO World Heritage Sites",
         "author": "Simi",
         "difficulty": 2,
+        "streakable": True,
     },
     {
         "name": "Default world map",
         "author": "GeoGuessr",
+        "streakable": True,
     },
     {
         "name": "World Cities (Bing Satellite)",
@@ -331,28 +373,45 @@ user_maps = [
 
 # There are 100 points-based unlocks and 3 extras
 non_map_items = [
-    {"name": "Progressive Pan/Zoom/Move", "progression": True, "count": 3},
-    {"name": "Progressive Compass/Car", "progression": True, "count": 2},
-    {"name": "Terrain Map View", "progression": True},
-    {"name": "Satellite Map View", "progression": True},
-    {"name": "OpenStreetMap View", "useful": True},
-    {"name": "Time machine", "useful": True},
-    {"name": "Map Score +1000", "useful": True, "count": 10},
-    {"name": "Map Score +5000", "useful": True, "count": 5, "progression": True},
-    {"name": "More Time", "progression": True, "count": 31},
-    {"name": "Count 24999 as perfect", "useful": True, "count": 3},
-    {"name": "20 Second Timer Trap", "count": 3, "trap": True},
-    {"name": "Mosaic Trap", "count": 2, "trap": True},
-    {"name": "Watercolor Map Trap", "count": 2, "trap": True},
-    {"name": "Death Metal Map Trap", "count": 2, "trap": True},
-    {"name": "Labelless Trap", "count": 3, "trap": True},
+    {
+        "name": "Progressive Pan/Zoom/Move",
+        "progression": True,
+        "count": 3,
+        "category": ["Features"],
+    },
+    {
+        "name": "Progressive Compass/Car",
+        "progression": True,
+        "count": 2,
+        "category": ["Features"],
+    },
+    {"name": "Terrain Map View", "progression": True, "category": ["Features"]},
+    {"name": "Satellite Map View", "progression": True, "category": ["Features"]},
+    {"name": "OpenStreetMap View", "useful": True, "category": ["Features"]},
+    {"name": "Time machine", "useful": True, "category": ["Features"]},
+    {"name": "Map Score +1000", "useful": True, "count": 10, "category": ["Boosts"]},
+    {
+        "name": "Map Score +5000",
+        "useful": True,
+        "count": 5,
+        "progression": True,
+        "category": ["Boosts"],
+    },
+    {"name": "More Time", "progression": True, "count": 31, "category": ["Features"]},
+    {"name": "Fix 1 point", "useful": True, "count": 3, "category": ["Boosts"]},
+    {"name": "20 Second Timer Trap", "count": 3, "trap": True, "category": ["Traps"]},
+    {"name": "Mosaic Trap", "count": 2, "trap": True, "category": ["Traps"]},
+    {"name": "Watercolor Map Trap", "count": 2, "trap": True, "category": ["Traps"]},
+    {"name": "Death Metal Map Trap", "count": 2, "trap": True, "category": ["Traps"]},
+    {"name": "Labelless Trap", "count": 2, "trap": True, "category": ["Traps"]},
     {
         "name": "Mega Plonk Trap",
         "count": 1,
-        "trap": True
+        "trap": True,
+        "category": ["Traps"],
         # all the remaining items will be this too
     },
-    {"name": "Space Plonk Trap", "count": 3, "trap": True},
+    {"name": "Space Plonk Trap", "count": 2, "trap": True, "category": ["Traps"]},
 ]
 
 non_map_goals = [
@@ -363,7 +422,6 @@ non_map_goals = [
             "Progressive Pan/Zoom/Move:3",
             "More Time:15",
         ],
-        "category": ["Anywhere"],
     },
     {
         "name": "Perfect score on 2 maps",
@@ -373,7 +431,6 @@ non_map_goals = [
             "More Time:21",
             "Satellite Map View",
         ],
-        "category": ["Anywhere"],
     },
     {
         "name": "Perfect score on 3 maps",
@@ -385,60 +442,56 @@ non_map_goals = [
             "Satellite Map View",
         ],
         "victory": True,
-        "category": ["Anywhere"],
     },
     {
         "name": "Confetti #1",
-        "requires": ["Progressive Compass/Car", "Progressive Pan/Zoom/Move:2"],
-        "category": ["Anywhere"],
-    },
-    {
-        "name": "Confetti #2",
-        "requires": ["Progressive Compass/Car", "Progressive Pan/Zoom/Move:2"],
-        "category": ["Anywhere"],
-    },
-    {
-        "name": "Confetti #3",
-        "requires": ["Progressive Compass/Car", "Progressive Pan/Zoom/Move:2"],
-        "category": ["Anywhere"],
-    },
-    {
-        "name": "Confetti #4",
-        "requires": ["Progressive Compass/Car", "Progressive Pan/Zoom/Move:2"],
-        "category": ["Anywhere"],
-    },
-    {
-        "name": "Confetti #5",
-        "requires": ["Progressive Compass/Car", "Progressive Pan/Zoom/Move:2"],
-        "category": ["Anywhere"],
-    },
-    {
-        "name": "World 5 Country Streak",
-        "requires": [
-            "Progressive Compass/Car",
-            "Progressive Pan/Zoom/Move",
-            "More Time:5",
-        ],
-        "category": ["Anywhere"],
-    },
-    {
-        "name": "World 10 Country Streak",
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:2",
-            "More Time:10",
+            "More Time:3",
         ],
-        "category": ["Anywhere"],
+    },
+    {
+        "name": "Confetti #2",
+        "requires": [
+            "Progressive Compass/Car",
+            "Progressive Pan/Zoom/Move:2",
+            "More Time:6",
+        ],
+    },
+    {
+        "name": "Confetti #3",
+        "requires": [
+            "Progressive Compass/Car",
+            "Progressive Pan/Zoom/Move:2",
+            "More Time:9",
+        ],
+    },
+    {
+        "name": "Confetti #4",
+        "requires": [
+            "Progressive Compass/Car",
+            "Progressive Pan/Zoom/Move:2",
+            "More Time:12",
+        ],
+    },
+    {
+        "name": "Confetti #5",
+        "requires": [
+            "Progressive Compass/Car",
+            "Progressive Pan/Zoom/Move:2",
+            "More Time:15",
+        ],
     },
 ]
 
 
-base_difficulty = {"5k": 1, "10k": 2, "15k": 3, "20k": 5}
+base_difficulty = {"5k": 1, "10k": 2, "15k": 3, "20k": 5, "5 streak": 5}
 
 
 def make_json():
     selected_maps = [
-        {"name": START_MAP, "author": START_MAP_AUTHOR},
+        {"name": START_MAP, "author": START_MAP_AUTHOR, "streakable": True},
     ]
     for mapname in random.sample(regional_maps[:10], 2) + random.sample(
         regional_maps[10:], 2
@@ -456,13 +509,14 @@ def make_json():
     regions = {}
     for mapdata in selected_maps:
         mapname = mapdata["name"]
-        items.append({"name": mapname, "progression": True})
+        items.append({"name": mapname, "progression": True, "category": ["Maps"]})
         region_info = {"requires": [mapname]}
         if mapname == START_MAP:
             region_info["starting"] = True
-        # don't write regions until we figure them out
-        # regions[mapname] = region_info
-        for goal in ["5k", "10k", "15k", "20k"]:
+        goals = ["5k", "10k", "15k", "20k"]
+        if mapdata.get("streakable"):
+            goals.append("5 streak")
+        for goal in goals:
             requires = [mapname]
             difficulty = base_difficulty[goal] + mapdata.get("difficulty", 3)
             if difficulty >= 9:
@@ -521,7 +575,7 @@ Manual_GeoGuessr_arborelia:
 
   start_inventory:
 {start_inventory_lines}
-      
+
 description: 'Generated by https://archipelago.gg/'
 game: Manual_GeoGuessr_arborelia
 name: Where's Elia

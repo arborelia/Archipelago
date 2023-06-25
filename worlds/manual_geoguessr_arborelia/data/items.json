@@ -2,167 +2,281 @@
     {
         "name": "Progressive Pan/Zoom/Move",
         "progression": true,
-        "count": 3
+        "count": 3,
+        "category": [
+            "Features"
+        ]
     },
     {
         "name": "Progressive Compass/Car",
         "progression": true,
-        "count": 2
+        "count": 2,
+        "category": [
+            "Features"
+        ]
     },
     {
         "name": "Terrain Map View",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Features"
+        ]
     },
     {
         "name": "Satellite Map View",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Features"
+        ]
     },
     {
         "name": "OpenStreetMap View",
-        "useful": true
+        "useful": true,
+        "category": [
+            "Features"
+        ]
     },
     {
         "name": "Time machine",
-        "useful": true
+        "useful": true,
+        "category": [
+            "Features"
+        ]
     },
     {
         "name": "Map Score +1000",
         "useful": true,
-        "count": 10
+        "count": 10,
+        "category": [
+            "Boosts"
+        ]
     },
     {
         "name": "Map Score +5000",
         "useful": true,
         "count": 5,
-        "progression": true
+        "progression": true,
+        "category": [
+            "Boosts"
+        ]
     },
     {
         "name": "More Time",
         "progression": true,
-        "count": 30
+        "count": 31,
+        "category": [
+            "Features"
+        ]
     },
     {
-        "name": "Count 24999 as perfect",
+        "name": "Fix 1 point",
         "useful": true,
-        "count": 2
+        "count": 3,
+        "category": [
+            "Boosts"
+        ]
     },
     {
         "name": "20 Second Timer Trap",
         "count": 3,
-        "trap": true
+        "trap": true,
+        "category": [
+            "Traps"
+        ]
     },
     {
         "name": "Mosaic Trap",
         "count": 2,
-        "trap": true
+        "trap": true,
+        "category": [
+            "Traps"
+        ]
     },
     {
         "name": "Watercolor Map Trap",
-        "count": 3,
-        "trap": true
+        "count": 2,
+        "trap": true,
+        "category": [
+            "Traps"
+        ]
     },
     {
         "name": "Death Metal Map Trap",
         "count": 2,
-        "trap": true
+        "trap": true,
+        "category": [
+            "Traps"
+        ]
     },
     {
         "name": "Labelless Trap",
-        "count": 3,
-        "trap": true
+        "count": 2,
+        "trap": true,
+        "category": [
+            "Traps"
+        ]
     },
     {
         "name": "Mega Plonk Trap",
         "count": 1,
-        "trap": true
+        "trap": true,
+        "category": [
+            "Traps"
+        ]
     },
     {
         "name": "Space Plonk Trap",
-        "count": 3,
-        "trap": true
+        "count": 2,
+        "trap": true,
+        "category": [
+            "Traps"
+        ]
+    },
+    {
+        "name": "A Balanced Canada",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "A Better Nordics Map",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "A Community World",
-        "progression": true
-    },
-    {
-        "name": "A Drone World",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "A Linguistic World",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "An Arbitrary Africa",
-        "progression": true
+        "name": "A Rural World",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "An Arbitrary Southeast Asia",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
+        "name": "An Improved World",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
+        "name": "An Unexplored World",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
+        "name": "Animals of the World",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "Belgium",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "Border Control",
-        "progression": true
-    },
-    {
-        "name": "City Skylines",
-        "progression": true
+        "name": "Brazil",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "CityGuessr",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "Ecuador",
-        "progression": true
+        "name": "Default world map",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "European Diversity",
-        "progression": true
+        "name": "Detective Japan",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "Germany",
-        "progression": true
+        "name": "DistanceGuessr",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "I Like Trains",
-        "progression": true
+        "name": "France",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "Italy",
-        "progression": true
+        "name": "GeoDetective Africa",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
-        "name": "La Diversite Francaise",
-        "progression": true
-    },
-    {
-        "name": "Look at dem mountains tho",
-        "progression": true
+        "name": "Poland",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "Southwest and Central Asia",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "Tokyo Metropolis",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     },
     {
         "name": "UNESCO World Heritage Sites",
-        "progression": true
-    },
-    {
-        "name": "Uruguay",
-        "progression": true
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
     }
 ]

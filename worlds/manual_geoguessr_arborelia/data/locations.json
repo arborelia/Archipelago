@@ -4,89 +4,110 @@
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:3",
-            "More Time:10"
-        ],
-        "category": "Anywhere"
+            "More Time:15"
+        ]
     },
     {
         "name": "Perfect score on 2 maps",
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:3",
-            "More Time:15",
+            "More Time:21",
             "Satellite Map View"
-        ],
-        "category": "Anywhere"
+        ]
     },
     {
         "name": "Perfect score on 3 maps",
         "requires": [
             "Progressive Compass/Car:2",
             "Progressive Pan/Zoom/Move:3",
-            "More Time:20",
+            "More Time:30",
             "Terrain Map View",
             "Satellite Map View"
         ],
-        "victory": true,
-        "category": "Anywhere"
+        "victory": true
     },
     {
         "name": "Confetti #1",
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:2"
-        ],
-        "category": "Anywhere"
+        ]
     },
     {
         "name": "Confetti #2",
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:2"
-        ],
-        "category": "Anywhere"
+        ]
     },
     {
         "name": "Confetti #3",
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:2"
-        ],
-        "category": "Anywhere"
+        ]
     },
     {
         "name": "Confetti #4",
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:2"
-        ],
-        "category": "Anywhere"
+        ]
     },
     {
         "name": "Confetti #5",
         "requires": [
             "Progressive Compass/Car",
             "Progressive Pan/Zoom/Move:2"
-        ],
-        "category": "Anywhere"
+        ]
     },
     {
-        "name": "World 5 Country Streak",
+        "name": "A Balanced Canada 5k",
         "requires": [
+            "A Balanced Canada",
+            "More Time:1"
+        ],
+        "category": [
+            "A Balanced Canada"
+        ]
+    },
+    {
+        "name": "A Balanced Canada 10k",
+        "requires": [
+            "A Balanced Canada",
             "Progressive Compass/Car",
+            "More Time:2"
+        ],
+        "category": [
+            "A Balanced Canada"
+        ]
+    },
+    {
+        "name": "A Balanced Canada 15k",
+        "requires": [
+            "A Balanced Canada",
             "Progressive Pan/Zoom/Move",
-            "More Time:5"
+            "Progressive Compass/Car",
+            "More Time:3"
         ],
-        "category": "Anywhere"
+        "category": [
+            "A Balanced Canada"
+        ]
     },
     {
-        "name": "World 10 Country Streak",
+        "name": "A Balanced Canada 20k",
         "requires": [
-            "Progressive Compass/Car",
+            "A Balanced Canada",
             "Progressive Pan/Zoom/Move:2",
-            "More Time:10"
+            "Progressive Compass/Car",
+            "More Time:8",
+            "Terrain Map View",
+            "Map Score +5000"
         ],
-        "category": "Anywhere"
+        "category": [
+            "A Balanced Canada"
+        ]
     },
     {
         "name": "A Better Nordics Map 5k",
@@ -94,7 +115,7 @@
             "A Better Nordics Map",
             "More Time:1"
         ],
-        "cetegory": [
+        "category": [
             "A Better Nordics Map"
         ]
     },
@@ -102,10 +123,10 @@
         "name": "A Better Nordics Map 10k",
         "requires": [
             "A Better Nordics Map",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "A Better Nordics Map"
         ]
     },
@@ -117,7 +138,7 @@
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
+        "category": [
             "A Better Nordics Map"
         ]
     },
@@ -131,7 +152,21 @@
             "Terrain Map View",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
+            "A Better Nordics Map"
+        ]
+    },
+    {
+        "name": "A Better Nordics Map 5 streak",
+        "requires": [
+            "A Better Nordics Map",
+            "Progressive Pan/Zoom/Move:2",
+            "Progressive Compass/Car",
+            "More Time:8",
+            "Terrain Map View",
+            "Map Score +5000"
+        ],
+        "category": [
             "A Better Nordics Map"
         ]
     },
@@ -141,7 +176,7 @@
             "A Community World",
             "More Time:1"
         ],
-        "cetegory": [
+        "category": [
             "A Community World"
         ]
     },
@@ -149,10 +184,10 @@
         "name": "A Community World 10k",
         "requires": [
             "A Community World",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "A Community World"
         ]
     },
@@ -164,7 +199,7 @@
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
+        "category": [
             "A Community World"
         ]
     },
@@ -178,55 +213,22 @@
             "Terrain Map View",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "A Community World"
         ]
     },
     {
-        "name": "A Drone World 5k",
+        "name": "A Community World 5 streak",
         "requires": [
-            "A Drone World",
-            "More Time:1"
-        ],
-        "cetegory": [
-            "A Drone World"
-        ]
-    },
-    {
-        "name": "A Drone World 10k",
-        "requires": [
-            "A Drone World",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
-        ],
-        "cetegory": [
-            "A Drone World"
-        ]
-    },
-    {
-        "name": "A Drone World 15k",
-        "requires": [
-            "A Drone World",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "A Drone World"
-        ]
-    },
-    {
-        "name": "A Drone World 20k",
-        "requires": [
-            "A Drone World",
+            "A Community World",
             "Progressive Pan/Zoom/Move:2",
             "Progressive Compass/Car",
             "More Time:8",
             "Terrain Map View",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "A Drone World"
+        "category": [
+            "A Community World"
         ]
     },
     {
@@ -234,7 +236,7 @@
         "requires": [
             "A Linguistic World"
         ],
-        "cetegory": [
+        "category": [
             "A Linguistic World"
         ]
     },
@@ -244,7 +246,7 @@
             "A Linguistic World",
             "More Time:1"
         ],
-        "cetegory": [
+        "category": [
             "A Linguistic World"
         ]
     },
@@ -252,10 +254,10 @@
         "name": "A Linguistic World 15k",
         "requires": [
             "A Linguistic World",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "A Linguistic World"
         ]
     },
@@ -268,65 +270,95 @@
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "A Linguistic World"
         ]
     },
     {
-        "name": "An Arbitrary Africa 5k",
+        "name": "A Linguistic World 5 streak",
         "requires": [
-            "An Arbitrary Africa",
-            "More Time:1"
+            "A Linguistic World",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
         ],
-        "cetegory": [
-            "An Arbitrary Africa"
+        "category": [
+            "A Linguistic World"
         ]
     },
     {
-        "name": "An Arbitrary Africa 10k",
+        "name": "A Rural World 5k",
         "requires": [
-            "An Arbitrary Africa",
-            "Progressive Pan/Zoom/Move",
+            "A Rural World",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
-            "An Arbitrary Africa"
+        "category": [
+            "A Rural World"
         ]
     },
     {
-        "name": "An Arbitrary Africa 15k",
+        "name": "A Rural World 10k",
         "requires": [
-            "An Arbitrary Africa",
+            "A Rural World",
             "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
-            "An Arbitrary Africa"
+        "category": [
+            "A Rural World"
         ]
     },
     {
-        "name": "An Arbitrary Africa 20k",
+        "name": "A Rural World 15k",
         "requires": [
-            "An Arbitrary Africa",
-            "Progressive Pan/Zoom/Move:2",
+            "A Rural World",
+            "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
-            "More Time:8",
-            "Terrain Map View",
+            "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "An Arbitrary Africa"
+        "category": [
+            "A Rural World"
+        ]
+    },
+    {
+        "name": "A Rural World 20k",
+        "requires": [
+            "A Rural World",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
+        ],
+        "category": [
+            "A Rural World"
+        ]
+    },
+    {
+        "name": "A Rural World 5 streak",
+        "requires": [
+            "A Rural World",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
+        ],
+        "category": [
+            "A Rural World"
         ]
     },
     {
         "name": "An Arbitrary Southeast Asia 5k",
         "requires": [
             "An Arbitrary Southeast Asia",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "An Arbitrary Southeast Asia"
         ]
     },
@@ -338,7 +370,7 @@
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
+        "category": [
             "An Arbitrary Southeast Asia"
         ]
     },
@@ -351,7 +383,7 @@
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "An Arbitrary Southeast Asia"
         ]
     },
@@ -365,18 +397,207 @@
             "Satellite Map View",
             "Map Score +5000:2"
         ],
-        "cetegory": [
+        "category": [
             "An Arbitrary Southeast Asia"
+        ]
+    },
+    {
+        "name": "An Arbitrary Southeast Asia 5 streak",
+        "requires": [
+            "An Arbitrary Southeast Asia",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
+        ],
+        "category": [
+            "An Arbitrary Southeast Asia"
+        ]
+    },
+    {
+        "name": "An Improved World 5k",
+        "requires": [
+            "An Improved World",
+            "More Time:1"
+        ],
+        "category": [
+            "An Improved World"
+        ]
+    },
+    {
+        "name": "An Improved World 10k",
+        "requires": [
+            "An Improved World",
+            "Progressive Compass/Car",
+            "More Time:2"
+        ],
+        "category": [
+            "An Improved World"
+        ]
+    },
+    {
+        "name": "An Improved World 15k",
+        "requires": [
+            "An Improved World",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:3"
+        ],
+        "category": [
+            "An Improved World"
+        ]
+    },
+    {
+        "name": "An Improved World 20k",
+        "requires": [
+            "An Improved World",
+            "Progressive Pan/Zoom/Move:2",
+            "Progressive Compass/Car",
+            "More Time:8",
+            "Terrain Map View",
+            "Map Score +5000"
+        ],
+        "category": [
+            "An Improved World"
+        ]
+    },
+    {
+        "name": "An Improved World 5 streak",
+        "requires": [
+            "An Improved World",
+            "Progressive Pan/Zoom/Move:2",
+            "Progressive Compass/Car",
+            "More Time:8",
+            "Terrain Map View",
+            "Map Score +5000"
+        ],
+        "category": [
+            "An Improved World"
+        ]
+    },
+    {
+        "name": "An Unexplored World 5k",
+        "requires": [
+            "An Unexplored World",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:3"
+        ],
+        "category": [
+            "An Unexplored World"
+        ]
+    },
+    {
+        "name": "An Unexplored World 10k",
+        "requires": [
+            "An Unexplored World",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
+        ],
+        "category": [
+            "An Unexplored World"
+        ]
+    },
+    {
+        "name": "An Unexplored World 15k",
+        "requires": [
+            "An Unexplored World",
+            "Progressive Pan/Zoom/Move:2",
+            "Progressive Compass/Car",
+            "More Time:8",
+            "Terrain Map View",
+            "Map Score +5000"
+        ],
+        "category": [
+            "An Unexplored World"
+        ]
+    },
+    {
+        "name": "An Unexplored World 20k",
+        "requires": [
+            "An Unexplored World",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
+        ],
+        "category": [
+            "An Unexplored World"
+        ]
+    },
+    {
+        "name": "Animals of the World 5k",
+        "requires": [
+            "Animals of the World",
+            "More Time:1"
+        ],
+        "category": [
+            "Animals of the World"
+        ]
+    },
+    {
+        "name": "Animals of the World 10k",
+        "requires": [
+            "Animals of the World",
+            "Progressive Compass/Car",
+            "More Time:2"
+        ],
+        "category": [
+            "Animals of the World"
+        ]
+    },
+    {
+        "name": "Animals of the World 15k",
+        "requires": [
+            "Animals of the World",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:3"
+        ],
+        "category": [
+            "Animals of the World"
+        ]
+    },
+    {
+        "name": "Animals of the World 20k",
+        "requires": [
+            "Animals of the World",
+            "Progressive Pan/Zoom/Move:2",
+            "Progressive Compass/Car",
+            "More Time:8",
+            "Terrain Map View",
+            "Map Score +5000"
+        ],
+        "category": [
+            "Animals of the World"
+        ]
+    },
+    {
+        "name": "Animals of the World 5 streak",
+        "requires": [
+            "Animals of the World",
+            "Progressive Pan/Zoom/Move:2",
+            "Progressive Compass/Car",
+            "More Time:8",
+            "Terrain Map View",
+            "Map Score +5000"
+        ],
+        "category": [
+            "Animals of the World"
         ]
     },
     {
         "name": "Belgium 5k",
         "requires": [
             "Belgium",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "Belgium"
         ]
     },
@@ -388,7 +609,7 @@
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
+        "category": [
             "Belgium"
         ]
     },
@@ -401,7 +622,7 @@
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "Belgium"
         ]
     },
@@ -415,98 +636,58 @@
             "Satellite Map View",
             "Map Score +5000:2"
         ],
-        "cetegory": [
+        "category": [
             "Belgium"
         ]
     },
     {
-        "name": "Border Control 5k",
+        "name": "Brazil 5k",
         "requires": [
-            "Border Control"
-        ],
-        "cetegory": [
-            "Border Control"
-        ]
-    },
-    {
-        "name": "Border Control 10k",
-        "requires": [
-            "Border Control",
-            "More Time:1"
-        ],
-        "cetegory": [
-            "Border Control"
-        ]
-    },
-    {
-        "name": "Border Control 15k",
-        "requires": [
-            "Border Control",
-            "Progressive Pan/Zoom/Move",
+            "Brazil",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
-            "Border Control"
+        "category": [
+            "Brazil"
         ]
     },
     {
-        "name": "Border Control 20k",
+        "name": "Brazil 10k",
         "requires": [
-            "Border Control",
+            "Brazil",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:3"
+        ],
+        "category": [
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Brazil 15k",
+        "requires": [
+            "Brazil",
             "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "Border Control"
+        "category": [
+            "Brazil"
         ]
     },
     {
-        "name": "City Skylines 5k",
+        "name": "Brazil 20k",
         "requires": [
-            "City Skylines",
-            "More Time:1"
+            "Brazil",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
         ],
-        "cetegory": [
-            "City Skylines"
-        ]
-    },
-    {
-        "name": "City Skylines 10k",
-        "requires": [
-            "City Skylines",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
-        ],
-        "cetegory": [
-            "City Skylines"
-        ]
-    },
-    {
-        "name": "City Skylines 15k",
-        "requires": [
-            "City Skylines",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "City Skylines"
-        ]
-    },
-    {
-        "name": "City Skylines 20k",
-        "requires": [
-            "City Skylines",
-            "Progressive Pan/Zoom/Move:2",
-            "Progressive Compass/Car",
-            "More Time:8",
-            "Terrain Map View",
-            "Map Score +5000"
-        ],
-        "cetegory": [
-            "City Skylines"
+        "category": [
+            "Brazil"
         ]
     },
     {
@@ -514,7 +695,7 @@
         "requires": [
             "CityGuessr"
         ],
-        "cetegory": [
+        "category": [
             "CityGuessr"
         ]
     },
@@ -524,7 +705,7 @@
             "CityGuessr",
             "More Time:1"
         ],
-        "cetegory": [
+        "category": [
             "CityGuessr"
         ]
     },
@@ -532,10 +713,10 @@
         "name": "CityGuessr 15k",
         "requires": [
             "CityGuessr",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "CityGuessr"
         ]
     },
@@ -548,349 +729,337 @@
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "CityGuessr"
         ]
     },
     {
-        "name": "Ecuador 5k",
+        "name": "CityGuessr 5 streak",
         "requires": [
-            "Ecuador",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
-        ],
-        "cetegory": [
-            "Ecuador"
-        ]
-    },
-    {
-        "name": "Ecuador 10k",
-        "requires": [
-            "Ecuador",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "Ecuador"
-        ]
-    },
-    {
-        "name": "Ecuador 15k",
-        "requires": [
-            "Ecuador",
+            "CityGuessr",
             "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "Ecuador"
+        "category": [
+            "CityGuessr"
         ]
     },
     {
-        "name": "Ecuador 20k",
+        "name": "Default world map 5k",
         "requires": [
-            "Ecuador",
-            "Progressive Pan/Zoom/Move:3",
-            "Progressive Compass/Car:2",
-            "More Time:10",
-            "Satellite Map View",
-            "Map Score +5000:2"
-        ],
-        "cetegory": [
-            "Ecuador"
-        ]
-    },
-    {
-        "name": "European Diversity 5k",
-        "requires": [
-            "European Diversity",
+            "Default world map",
             "More Time:1"
         ],
-        "cetegory": [
-            "European Diversity"
+        "category": [
+            "Default world map"
         ]
     },
     {
-        "name": "European Diversity 10k",
+        "name": "Default world map 10k",
         "requires": [
-            "European Diversity",
-            "Progressive Pan/Zoom/Move",
+            "Default world map",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
-            "European Diversity"
+        "category": [
+            "Default world map"
         ]
     },
     {
-        "name": "European Diversity 15k",
+        "name": "Default world map 15k",
         "requires": [
-            "European Diversity",
+            "Default world map",
             "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
-            "European Diversity"
+        "category": [
+            "Default world map"
         ]
     },
     {
-        "name": "European Diversity 20k",
+        "name": "Default world map 20k",
         "requires": [
-            "European Diversity",
+            "Default world map",
             "Progressive Pan/Zoom/Move:2",
             "Progressive Compass/Car",
             "More Time:8",
             "Terrain Map View",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "European Diversity"
+        "category": [
+            "Default world map"
         ]
     },
     {
-        "name": "Germany 5k",
+        "name": "Default world map 5 streak",
         "requires": [
-            "Germany",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
-        ],
-        "cetegory": [
-            "Germany"
-        ]
-    },
-    {
-        "name": "Germany 10k",
-        "requires": [
-            "Germany",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "Germany"
-        ]
-    },
-    {
-        "name": "Germany 15k",
-        "requires": [
-            "Germany",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:5",
-            "Map Score +5000"
-        ],
-        "cetegory": [
-            "Germany"
-        ]
-    },
-    {
-        "name": "Germany 20k",
-        "requires": [
-            "Germany",
-            "Progressive Pan/Zoom/Move:3",
-            "Progressive Compass/Car:2",
-            "More Time:10",
-            "Satellite Map View",
-            "Map Score +5000:2"
-        ],
-        "cetegory": [
-            "Germany"
-        ]
-    },
-    {
-        "name": "I Like Trains 5k",
-        "requires": [
-            "I Like Trains",
-            "More Time:1"
-        ],
-        "cetegory": [
-            "I Like Trains"
-        ]
-    },
-    {
-        "name": "I Like Trains 10k",
-        "requires": [
-            "I Like Trains",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
-        ],
-        "cetegory": [
-            "I Like Trains"
-        ]
-    },
-    {
-        "name": "I Like Trains 15k",
-        "requires": [
-            "I Like Trains",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "I Like Trains"
-        ]
-    },
-    {
-        "name": "I Like Trains 20k",
-        "requires": [
-            "I Like Trains",
+            "Default world map",
             "Progressive Pan/Zoom/Move:2",
             "Progressive Compass/Car",
             "More Time:8",
             "Terrain Map View",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "I Like Trains"
+        "category": [
+            "Default world map"
         ]
     },
     {
-        "name": "Italy 5k",
+        "name": "Detective Japan 5k",
         "requires": [
-            "Italy",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
+            "Detective Japan"
         ],
-        "cetegory": [
-            "Italy"
+        "category": [
+            "Detective Japan"
         ]
     },
     {
-        "name": "Italy 10k",
+        "name": "Detective Japan 10k",
         "requires": [
-            "Italy",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "Italy"
-        ]
-    },
-    {
-        "name": "Italy 15k",
-        "requires": [
-            "Italy",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:5",
-            "Map Score +5000"
-        ],
-        "cetegory": [
-            "Italy"
-        ]
-    },
-    {
-        "name": "Italy 20k",
-        "requires": [
-            "Italy",
-            "Progressive Pan/Zoom/Move:3",
-            "Progressive Compass/Car:2",
-            "More Time:10",
-            "Satellite Map View",
-            "Map Score +5000:2"
-        ],
-        "cetegory": [
-            "Italy"
-        ]
-    },
-    {
-        "name": "La Diversite Francaise 5k",
-        "requires": [
-            "La Diversite Francaise",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
-        ],
-        "cetegory": [
-            "La Diversite Francaise"
-        ]
-    },
-    {
-        "name": "La Diversite Francaise 10k",
-        "requires": [
-            "La Diversite Francaise",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "La Diversite Francaise"
-        ]
-    },
-    {
-        "name": "La Diversite Francaise 15k",
-        "requires": [
-            "La Diversite Francaise",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:5",
-            "Map Score +5000"
-        ],
-        "cetegory": [
-            "La Diversite Francaise"
-        ]
-    },
-    {
-        "name": "La Diversite Francaise 20k",
-        "requires": [
-            "La Diversite Francaise",
-            "Progressive Pan/Zoom/Move:3",
-            "Progressive Compass/Car:2",
-            "More Time:10",
-            "Satellite Map View",
-            "Map Score +5000:2"
-        ],
-        "cetegory": [
-            "La Diversite Francaise"
-        ]
-    },
-    {
-        "name": "Look at dem mountains tho 5k",
-        "requires": [
-            "Look at dem mountains tho",
+            "Detective Japan",
             "More Time:1"
         ],
-        "cetegory": [
-            "Look at dem mountains tho"
+        "category": [
+            "Detective Japan"
         ]
     },
     {
-        "name": "Look at dem mountains tho 10k",
+        "name": "Detective Japan 15k",
         "requires": [
-            "Look at dem mountains tho",
-            "Progressive Pan/Zoom/Move",
+            "Detective Japan",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
-            "Look at dem mountains tho"
+        "category": [
+            "Detective Japan"
         ]
     },
     {
-        "name": "Look at dem mountains tho 15k",
+        "name": "Detective Japan 20k",
         "requires": [
-            "Look at dem mountains tho",
+            "Detective Japan",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
+        ],
+        "category": [
+            "Detective Japan"
+        ]
+    },
+    {
+        "name": "DistanceGuessr 5k",
+        "requires": [
+            "DistanceGuessr"
+        ],
+        "category": [
+            "DistanceGuessr"
+        ]
+    },
+    {
+        "name": "DistanceGuessr 10k",
+        "requires": [
+            "DistanceGuessr",
+            "More Time:1"
+        ],
+        "category": [
+            "DistanceGuessr"
+        ]
+    },
+    {
+        "name": "DistanceGuessr 15k",
+        "requires": [
+            "DistanceGuessr",
+            "Progressive Compass/Car",
+            "More Time:2"
+        ],
+        "category": [
+            "DistanceGuessr"
+        ]
+    },
+    {
+        "name": "DistanceGuessr 20k",
+        "requires": [
+            "DistanceGuessr",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
+        ],
+        "category": [
+            "DistanceGuessr"
+        ]
+    },
+    {
+        "name": "DistanceGuessr 5 streak",
+        "requires": [
+            "DistanceGuessr",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
+        ],
+        "category": [
+            "DistanceGuessr"
+        ]
+    },
+    {
+        "name": "France 5k",
+        "requires": [
+            "France",
+            "Progressive Compass/Car",
+            "More Time:2"
+        ],
+        "category": [
+            "France"
+        ]
+    },
+    {
+        "name": "France 10k",
+        "requires": [
+            "France",
             "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
-            "Look at dem mountains tho"
+        "category": [
+            "France"
         ]
     },
     {
-        "name": "Look at dem mountains tho 20k",
+        "name": "France 15k",
         "requires": [
-            "Look at dem mountains tho",
-            "Progressive Pan/Zoom/Move:2",
+            "France",
+            "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
-            "More Time:8",
-            "Terrain Map View",
+            "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "Look at dem mountains tho"
+        "category": [
+            "France"
+        ]
+    },
+    {
+        "name": "France 20k",
+        "requires": [
+            "France",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
+        ],
+        "category": [
+            "France"
+        ]
+    },
+    {
+        "name": "GeoDetective Africa 5k",
+        "requires": [
+            "GeoDetective Africa"
+        ],
+        "category": [
+            "GeoDetective Africa"
+        ]
+    },
+    {
+        "name": "GeoDetective Africa 10k",
+        "requires": [
+            "GeoDetective Africa",
+            "More Time:1"
+        ],
+        "category": [
+            "GeoDetective Africa"
+        ]
+    },
+    {
+        "name": "GeoDetective Africa 15k",
+        "requires": [
+            "GeoDetective Africa",
+            "Progressive Compass/Car",
+            "More Time:2"
+        ],
+        "category": [
+            "GeoDetective Africa"
+        ]
+    },
+    {
+        "name": "GeoDetective Africa 20k",
+        "requires": [
+            "GeoDetective Africa",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
+        ],
+        "category": [
+            "GeoDetective Africa"
+        ]
+    },
+    {
+        "name": "GeoDetective Africa 5 streak",
+        "requires": [
+            "GeoDetective Africa",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
+        ],
+        "category": [
+            "GeoDetective Africa"
+        ]
+    },
+    {
+        "name": "Poland 5k",
+        "requires": [
+            "Poland",
+            "Progressive Compass/Car",
+            "More Time:2"
+        ],
+        "category": [
+            "Poland"
+        ]
+    },
+    {
+        "name": "Poland 10k",
+        "requires": [
+            "Poland",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:3"
+        ],
+        "category": [
+            "Poland"
+        ]
+    },
+    {
+        "name": "Poland 15k",
+        "requires": [
+            "Poland",
+            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
+            "More Time:5",
+            "Map Score +5000"
+        ],
+        "category": [
+            "Poland"
+        ]
+    },
+    {
+        "name": "Poland 20k",
+        "requires": [
+            "Poland",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
+        ],
+        "category": [
+            "Poland"
         ]
     },
     {
@@ -901,7 +1070,7 @@
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
+        "category": [
             "Southwest and Central Asia"
         ]
     },
@@ -914,7 +1083,7 @@
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "Southwest and Central Asia"
         ]
     },
@@ -928,7 +1097,7 @@
             "Terrain Map View",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "Southwest and Central Asia"
         ]
     },
@@ -942,7 +1111,21 @@
             "Satellite Map View",
             "Map Score +5000:2"
         ],
-        "cetegory": [
+        "category": [
+            "Southwest and Central Asia"
+        ]
+    },
+    {
+        "name": "Southwest and Central Asia 5 streak",
+        "requires": [
+            "Southwest and Central Asia",
+            "Progressive Pan/Zoom/Move:3",
+            "Progressive Compass/Car:2",
+            "More Time:10",
+            "Satellite Map View",
+            "Map Score +5000:2"
+        ],
+        "category": [
             "Southwest and Central Asia"
         ]
     },
@@ -952,7 +1135,7 @@
             "Tokyo Metropolis",
             "More Time:1"
         ],
-        "cetegory": [
+        "category": [
             "Tokyo Metropolis"
         ]
     },
@@ -960,10 +1143,10 @@
         "name": "Tokyo Metropolis 10k",
         "requires": [
             "Tokyo Metropolis",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "Tokyo Metropolis"
         ]
     },
@@ -975,7 +1158,7 @@
             "Progressive Compass/Car",
             "More Time:3"
         ],
-        "cetegory": [
+        "category": [
             "Tokyo Metropolis"
         ]
     },
@@ -989,7 +1172,7 @@
             "Terrain Map View",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "Tokyo Metropolis"
         ]
     },
@@ -998,7 +1181,7 @@
         "requires": [
             "UNESCO World Heritage Sites"
         ],
-        "cetegory": [
+        "category": [
             "UNESCO World Heritage Sites"
         ]
     },
@@ -1008,7 +1191,7 @@
             "UNESCO World Heritage Sites",
             "More Time:1"
         ],
-        "cetegory": [
+        "category": [
             "UNESCO World Heritage Sites"
         ]
     },
@@ -1016,10 +1199,10 @@
         "name": "UNESCO World Heritage Sites 15k",
         "requires": [
             "UNESCO World Heritage Sites",
-            "Progressive Pan/Zoom/Move",
+            "Progressive Compass/Car",
             "More Time:2"
         ],
-        "cetegory": [
+        "category": [
             "UNESCO World Heritage Sites"
         ]
     },
@@ -1032,58 +1215,21 @@
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
+        "category": [
             "UNESCO World Heritage Sites"
         ]
     },
     {
-        "name": "Uruguay 5k",
+        "name": "UNESCO World Heritage Sites 5 streak",
         "requires": [
-            "Uruguay",
-            "Progressive Pan/Zoom/Move",
-            "More Time:2"
-        ],
-        "cetegory": [
-            "Uruguay"
-        ]
-    },
-    {
-        "name": "Uruguay 10k",
-        "requires": [
-            "Uruguay",
-            "Progressive Pan/Zoom/Move",
-            "Progressive Compass/Car",
-            "More Time:3"
-        ],
-        "cetegory": [
-            "Uruguay"
-        ]
-    },
-    {
-        "name": "Uruguay 15k",
-        "requires": [
-            "Uruguay",
+            "UNESCO World Heritage Sites",
             "Progressive Pan/Zoom/Move",
             "Progressive Compass/Car",
             "More Time:5",
             "Map Score +5000"
         ],
-        "cetegory": [
-            "Uruguay"
-        ]
-    },
-    {
-        "name": "Uruguay 20k",
-        "requires": [
-            "Uruguay",
-            "Progressive Pan/Zoom/Move:3",
-            "Progressive Compass/Car:2",
-            "More Time:10",
-            "Satellite Map View",
-            "Map Score +5000:2"
-        ],
-        "cetegory": [
-            "Uruguay"
+        "category": [
+            "UNESCO World Heritage Sites"
         ]
     }
 ]
