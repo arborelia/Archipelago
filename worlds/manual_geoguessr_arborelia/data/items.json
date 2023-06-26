@@ -133,14 +133,7 @@
         ]
     },
     {
-        "name": "A Balanced Canada",
-        "progression": true,
-        "category": [
-            "Maps"
-        ]
-    },
-    {
-        "name": "A Better Nordics Map",
+        "name": "A Balanced Urban World",
         "progression": true,
         "category": [
             "Maps"
@@ -154,6 +147,13 @@
         ]
     },
     {
+        "name": "A Drone World",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
         "name": "A Linguistic World",
         "progression": true,
         "category": [
@@ -161,42 +161,21 @@
         ]
     },
     {
-        "name": "A Rural World",
+        "name": "A Speedrun World",
         "progression": true,
         "category": [
             "Maps"
         ]
     },
     {
-        "name": "An Arbitrary Southeast Asia",
+        "name": "Aesthetic World",
         "progression": true,
         "category": [
             "Maps"
         ]
     },
     {
-        "name": "An Improved World",
-        "progression": true,
-        "category": [
-            "Maps"
-        ]
-    },
-    {
-        "name": "An Unexplored World",
-        "progression": true,
-        "category": [
-            "Maps"
-        ]
-    },
-    {
-        "name": "Animals of the World",
-        "progression": true,
-        "category": [
-            "Maps"
-        ]
-    },
-    {
-        "name": "Belgium",
+        "name": "An Arbitrary Africa",
         "progression": true,
         "category": [
             "Maps"
@@ -210,42 +189,70 @@
         ]
     },
     {
-        "name": "CityGuessr",
+        "name": "City Skylines",
         "progression": true,
         "category": [
             "Maps"
         ]
     },
     {
-        "name": "Default world map",
+        "name": "Coastal Cities 100K+",
         "progression": true,
         "category": [
             "Maps"
         ]
     },
     {
-        "name": "Detective Japan",
+        "name": "Dads of the World",
         "progression": true,
         "category": [
             "Maps"
         ]
     },
     {
-        "name": "DistanceGuessr",
+        "name": "Ecuador",
         "progression": true,
         "category": [
             "Maps"
         ]
     },
     {
-        "name": "France",
+        "name": "I Like Trains",
         "progression": true,
         "category": [
             "Maps"
         ]
     },
     {
-        "name": "GeoDetective Africa",
+        "name": "Japan",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
+        "name": "La Diversite Francaise",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
+        "name": "Living the Island Life",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
+        "name": "McDonald's Worldwide",
+        "progression": true,
+        "category": [
+            "Maps"
+        ]
+    },
+    {
+        "name": "New York City",
         "progression": true,
         "category": [
             "Maps"
@@ -253,13 +260,6 @@
     },
     {
         "name": "Poland",
-        "progression": true,
-        "category": [
-            "Maps"
-        ]
-    },
-    {
-        "name": "Southwest and Central Asia",
         "progression": true,
         "category": [
             "Maps"
